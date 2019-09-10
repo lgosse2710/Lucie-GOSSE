@@ -1,0 +1,109 @@
+
+.logo_google
+{
+    text-align: center
+
+}
+
+
+.top
+{
+ font-size: 13px;
+}
+
+.bottom
+{
+    font-size: 12px;
+}
+
+.videhaut
+{
+    width: 15px;
+}
+.lignehaut
+{
+    display: flex;
+    justify-content: end;
+    
+}
+
+.videcentre
+{
+    width: 10px;
+}
+
+.lignemilieu
+{
+    display: flex;
+    justify-content: center;
+    
+}
+.lignecentre
+{
+    display:flex;
+    justify-content: center
+}
+
+.videbasgauche
+{
+    width: 20px;
+}
+
+.videbasdroite
+{
+    width: 20px;
+}
+
+.Fr
+{
+    display: flex;
+    justify-content: start;
+    border-top: 1px #E4E4E4 solid;
+background: #F4F4F4;
+
+}
+
+.Fra
+{
+    color: #5F6368;
+}
+
+
+.lignebasS
+{
+   
+   
+    display: flex;
+    justify-content: start;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+
+.lignebasE
+{
+    
+    display: flex;
+    justify-content: end;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+
+.basmilieu
+{
+    width: 54.2%;
+    border-top: 1px #E4E4E4 solid;
+    background: #F4F4F4;
+}
+
+.lignebasF
+{
+    display: flex;
+    justify-content: center;
+}
+.foot
+{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right:0;
+}
